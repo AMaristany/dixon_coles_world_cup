@@ -393,7 +393,9 @@ st.title("Model Dixon-Cole per a Porra World Cup 2026")
 st.caption(
     "Model de Poisson bivariant amb correcció Dixon-Coles, ajustat amb dades històriques "
     "(2021–2026) i rànquing FIFA segons finals Maig 2026."
-    "Albert Maristany per a porra oficial de Marcel Gómez - Mundial 2026"
+)
+st.caption(
+    " Autor: Albert Maristany per a porra oficial de Marcel Gómez - Mundial 2026"
 )
 
 try:
