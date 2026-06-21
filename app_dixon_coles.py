@@ -417,7 +417,7 @@ for fecha_str, eq_home, eq_away, is_host in PARTIDS_PER_DEFECTE:
     rows.append(predict_match(eq_home, eq_away, lam, mu, RHO))
 df_pred = pd.DataFrame(rows)
 
-tab_prediccions, tab_model = st.tabs(["📊 Prediccions", "🧮 Model i raonament"])
+tab_prediccions, tab_model = st.tabs(["📊 Prediccions", "🧮 Model i metodologia"])
 
 # =============================================================================
 # PESTANYA 1 — PREDICCIONS (per defecte, orientada a l'usuari)
@@ -454,9 +454,37 @@ with tab_prediccions:
 with tab_model:
     st.markdown(
         """
-**Idea de base.** Els gols d'un partit de futbol se solen modelar com a variables de Poisson:
-cadascun dels dos equips marca un nombre de gols $X \\sim \\text{Poisson}(\\lambda)$, on $\\lambda$
-és l'esperança de gols. El repte és estimar $\\lambda_{local}$ i $\\lambda_{visitant}$ a partir
+**Hipòtesi inicial.** La proposta de l'anàlisi és que un enfocament científic, rigurós i data-driven,
+augmentat amb eines d'IA, sobre un problema de predicció de dades pot guanyar a qualsevol "ball-knowledge".
+A 21 de juny de 2026 (38 partits jugats de fase de grups), això no es compleix.
+"""
+    )
+
+    st.markdown(
+        """
+**Role-playing agents.** S'ha començat simulant una taula rodona entre 3 experts amb IA:
+un/a científic/a de dades sènior, un/a estadístic/a sènior i un/a expert/a en prediccions esportives.
+Els 3 han debatut (1) si era possible guanyar a rivals humans en una porra d'un mundial, i (2) quin
+era l'approach més efectiu. S'ha conclòs que la variant de Dixon-Coles de la distribució de Poisson
+era el "state of the art" i la millor opció (resultat/energia). Es complementa un model construït
+amb dades de partits des de 2021 amb el rànquing de la FIFA a finals de maig de 2026 per a les seleccions
+amb pocs resultats de partits.
+"""
+    )
+
+    st.markdown(
+        """
+**Notebooks amb Python i visualitzacions amb Altair.** S'ha construït el model (amb l'ajuda de models
+d'IA gratuïts, poc potents) en notebooks de Jupyter, s'ha optimitzat i després s'ha projectat a una
+app web amb Streamlit.
+"""
+    )
+
+    st.markdown(
+        """
+**Idea de base de la metodologia.** Els gols d'un partit de futbol se solen modelar com a variables de
+Poisson: cadascun dels dos equips marca un nombre de gols $X \\sim \\text{Poisson}(\\lambda)$, on
+$\\lambda$ és l'esperança de gols. El repte és estimar $\\lambda_{local}$ i $\\lambda_{visitant}$ a partir
 de l'històric, i corregir el biaix que el Poisson independent introdueix als marcadors baixos.
 """
     )
