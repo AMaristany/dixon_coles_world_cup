@@ -482,8 +482,9 @@ app web amb Streamlit.
 
     st.markdown(
         """
-**Idea de base de la metodologia.** Els gols d'un partit de futbol se solen modelar com a variables de
-Poisson: cadascun dels dos equips marca un nombre de gols $X \\sim \\text{Poisson}(\\lambda)$, on
+**Idea de base de la metodologia (Model Dixon-Coles amb correccions)** Els gols d'un partit de futbol 
+se solen modelar com a variables de Poisson: cadascun dels dos equips 
+marca un nombre de gols $X \\sim \\text{Poisson}(\\lambda)$, on
 $\\lambda$ és l'esperança de gols. El repte és estimar $\\lambda_{local}$ i $\\lambda_{visitant}$ a partir
 de l'històric, i corregir el biaix que el Poisson independent introdueix als marcadors baixos.
 """
