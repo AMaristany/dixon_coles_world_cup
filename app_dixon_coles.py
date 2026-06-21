@@ -204,7 +204,11 @@ def get_team_stats(team_name, df_history, ranking_dict, target_date):
     df_team["weight"] = time_weight * match_weight
 
     avg_ranking_points = np.mean(list(ranking_dict.values()))
-    df_team["opp_points"] = df_team["opp_team"].map(ranking_dict).fillna(avg_ranking_points)
+    # Un equipo que ni siquiera aparece en el ranking FIFA (microfederaciones caribeñas,
+    # equipos no afiliados a FIFA, etc.) casi seguro es MÁS DÉBIL que la media, no de fuerza
+    # media. Usar la media aquí infla artificialmente las goleadas contra estos rivales.
+    fallback_unranked = np.percentile(list(ranking_dict.values()), 5)
+    df_team["opp_points"] = df_team["opp_team"].map(ranking_dict).fillna(fallback_unranked)
     df_team["opp_factor"] = df_team["opp_points"] / avg_ranking_points
 
     weighted_offense = np.average(df_team["goals_scored"] * df_team["opp_factor"], weights=df_team["weight"])
