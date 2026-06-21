@@ -1,0 +1,212 @@
+rank,country_full,total_points,confederation,rank_date,rank_type
+1,Argentina,1877.27,CONMEBOL,2026-06-10,live_unofficial
+2,Spain,1874.71,UEFA,2026-06-10,live_unofficial
+3,France,1870.7,UEFA,2026-06-10,live_unofficial
+4,England,1828.02,UEFA,2026-06-10,live_unofficial
+5,Portugal,1767.85,UEFA,2026-06-10,live_unofficial
+6,Brazil,1765.86,CONMEBOL,2026-06-10,live_unofficial
+7,Morocco,1755.1,CAF,2026-06-10,live_unofficial
+8,Netherlands,1753.57,UEFA,2026-06-10,live_unofficial
+9,Belgium,1742.24,UEFA,2026-06-10,live_unofficial
+10,Germany,1735.77,UEFA,2026-06-10,live_unofficial
+11,Croatia,1714.87,UEFA,2026-06-10,live_unofficial
+12,Italy,1704.73,UEFA,2026-06-10,live_unofficial
+13,Colombia,1698.35,CONMEBOL,2026-06-10,live_unofficial
+14,Mexico,1687.48,CONCACAF,2026-06-10,live_unofficial
+15,Senegal,1684.07,CAF,2026-06-10,live_unofficial
+16,Uruguay,1673.07,CONMEBOL,2026-06-10,live_unofficial
+17,United States,1671.23,CONCACAF,2026-06-10,live_unofficial
+18,Japan,1661.58,AFC,2026-06-10,live_unofficial
+19,Switzerland,1650.06,UEFA,2026-06-10,live_unofficial
+20,IR Iran,1619.58,AFC,2026-06-10,live_unofficial
+21,Denmark,1619.47,UEFA,2026-06-10,live_unofficial
+22,Türkiye,1605.73,UEFA,2026-06-10,live_unofficial
+23,Ecuador,1598.52,CONMEBOL,2026-06-10,live_unofficial
+24,Austria,1597.4,UEFA,2026-06-10,live_unofficial
+25,Korea Republic,1591.63,AFC,2026-06-10,live_unofficial
+26,Nigeria,1585.02,CAF,2026-06-10,live_unofficial
+27,Australia,1579.34,AFC,2026-06-10,live_unofficial
+28,Algeria,1571.03,CAF,2026-06-10,live_unofficial
+29,Egypt,1562.37,CAF,2026-06-10,live_unofficial
+30,Canada,1559.48,CONCACAF,2026-06-10,live_unofficial
+31,Norway,1557.44,UEFA,2026-06-10,live_unofficial
+32,Ukraine,1549.29,UEFA,2026-06-10,live_unofficial
+33,Côte d'Ivoire,1540.87,CAF,2026-06-10,live_unofficial
+34,Panama,1539.16,CONCACAF,2026-06-10,live_unofficial
+35,Russia,1529.6,UEFA,2026-06-10,live_unofficial
+36,Poland,1526.18,UEFA,2026-06-10,live_unofficial
+37,Wales,1516.95,UEFA,2026-06-10,live_unofficial
+38,Sweden,1509.79,UEFA,2026-06-10,live_unofficial
+39,Hungary,1506.39,UEFA,2026-06-10,live_unofficial
+40,Czechia,1505.74,UEFA,2026-06-10,live_unofficial
+41,Paraguay,1505.35,CONMEBOL,2026-06-10,live_unofficial
+42,Scotland,1503.34,UEFA,2026-06-10,live_unofficial
+43,Serbia,1502.13,UEFA,2026-06-10,live_unofficial
+44,Cameroon,1481.24,CAF,2026-06-10,live_unofficial
+45,Tunisia,1476.41,CAF,2026-06-10,live_unofficial
+46,Congo DR,1474.43,CAF,2026-06-10,live_unofficial
+47,Slovakia,1473.66,UEFA,2026-06-10,live_unofficial
+48,Greece,1473.19,UEFA,2026-06-10,live_unofficial
+49,Venezuela,1469.18,CONMEBOL,2026-06-10,live_unofficial
+50,Uzbekistan,1458.73,AFC,2026-06-10,live_unofficial
+51,Chile,1458.2,CONMEBOL,2026-06-10,live_unofficial
+52,Peru,1457.69,CONMEBOL,2026-06-10,live_unofficial
+53,Costa Rica,1456.03,CONCACAF,2026-06-10,live_unofficial
+54,Romania,1455.89,UEFA,2026-06-10,live_unofficial
+55,Mali,1455.59,CAF,2026-06-10,live_unofficial
+56,Qatar,1450.31,AFC,2026-06-10,live_unofficial
+57,Iraq,1446.28,AFC,2026-06-10,live_unofficial
+58,Republic of Ireland,1441.1,UEFA,2026-06-10,live_unofficial
+59,Slovenia,1441.09,UEFA,2026-06-10,live_unofficial
+60,South Africa,1428.38,CAF,2026-06-10,live_unofficial
+61,Saudi Arabia,1423.88,AFC,2026-06-10,live_unofficial
+62,Burkina Faso,1406.99,CAF,2026-06-10,live_unofficial
+63,Jordan,1387.74,AFC,2026-06-10,live_unofficial
+64,Bosnia and Herzegovina,1387.22,UEFA,2026-06-10,live_unofficial
+65,Honduras,1378.97,CONCACAF,2026-06-10,live_unofficial
+66,Albania,1376.03,UEFA,2026-06-10,live_unofficial
+67,Cabo Verde,1371.11,CAF,2026-06-10,live_unofficial
+68,United Arab Emirates,1370.47,AFC,2026-06-10,live_unofficial
+69,North Macedonia,1369.16,UEFA,2026-06-10,live_unofficial
+70,Northern Ireland,1365.3,UEFA,2026-06-10,live_unofficial
+71,Jamaica,1357.84,CONCACAF,2026-06-10,live_unofficial
+72,Georgia,1355.26,UEFA,2026-06-10,live_unofficial
+73,Ghana,1346.88,CAF,2026-06-10,live_unofficial
+74,Iceland,1342.77,UEFA,2026-06-10,live_unofficial
+75,Finland,1341.92,UEFA,2026-06-10,live_unofficial
+76,Israel,1333.9,UEFA,2026-06-10,live_unofficial
+77,Bolivia,1326.0,CONMEBOL,2026-06-10,live_unofficial
+78,Kosovo,1319.12,UEFA,2026-06-10,live_unofficial
+79,Oman,1306.9,AFC,2026-06-10,live_unofficial
+80,Montenegro,1301.98,UEFA,2026-06-10,live_unofficial
+81,Guinea,1295.6,CAF,2026-06-10,live_unofficial
+82,Curaçao,1294.77,CONCACAF,2026-06-10,live_unofficial
+83,Haiti,1293.1,CONCACAF,2026-06-10,live_unofficial
+84,Syria,1283.05,AFC,2026-06-10,live_unofficial
+85,New Zealand,1275.58,OFC,2026-06-10,live_unofficial
+86,Gabon,1272.51,CAF,2026-06-10,live_unofficial
+87,Bulgaria,1271.68,UEFA,2026-06-10,live_unofficial
+88,Angola,1265.58,CAF,2026-06-10,live_unofficial
+89,Uganda,1264.09,CAF,2026-06-10,live_unofficial
+90,Zambia,1255.82,CAF,2026-06-10,live_unofficial
+91,China PR,1254.81,AFC,2026-06-10,live_unofficial
+92,Bahrain,1254.41,AFC,2026-06-10,live_unofficial
+93,Benin,1252.17,CAF,2026-06-10,live_unofficial
+94,Thailand,1250.8,AFC,2026-06-10,live_unofficial
+95,Palestine,1243.71,AFC,2026-06-10,live_unofficial
+96,Belarus,1242.88,UEFA,2026-06-10,live_unofficial
+97,Guatemala,1238.74,CONCACAF,2026-06-10,live_unofficial
+98,Luxembourg,1232.82,UEFA,2026-06-10,live_unofficial
+99,Vietnam,1225.68,AFC,2026-06-10,live_unofficial
+100,El Salvador,1225.34,CONCACAF,2026-06-10,live_unofficial
+101,Tajikistan,1224.19,AFC,2026-06-10,live_unofficial
+102,Trinidad and Tobago,1219.59,CONCACAF,2026-06-10,live_unofficial
+103,Mozambique,1218.62,CAF,2026-06-10,live_unofficial
+104,Madagascar,1202.69,CAF,2026-06-10,live_unofficial
+105,Equatorial Guinea,1195.2,CAF,2026-06-10,live_unofficial
+106,Kyrgyz Republic,1192.16,AFC,2026-06-10,live_unofficial
+107,Armenia,1189.63,UEFA,2026-06-10,live_unofficial
+108,Comoros,1187.91,CAF,2026-06-10,live_unofficial
+109,Kenya,1185.08,CAF,2026-06-10,live_unofficial
+110,Libya,1182.08,CAF,2026-06-10,live_unofficial
+111,Kazakhstan,1180.78,UEFA,2026-06-10,live_unofficial
+112,Tanzania,1180.27,CAF,2026-06-10,live_unofficial
+113,Mauritania,1176.68,CAF,2026-06-10,live_unofficial
+114,Niger,1175.33,CAF,2026-06-10,live_unofficial
+115,Lebanon,1172.22,AFC,2026-06-10,live_unofficial
+116,The Gambia,1159.64,CAF,2026-06-10,live_unofficial
+117,Sudan,1157.22,CAF,2026-06-10,live_unofficial
+118,Indonesia,1157.14,AFC,2026-06-10,live_unofficial
+119,Togo,1152.76,CAF,2026-06-10,live_unofficial
+120,Korea DPR,1151.05,AFC,2026-06-10,live_unofficial
+121,Namibia,1148.84,CAF,2026-06-10,live_unofficial
+122,Sierra Leone,1147.56,CAF,2026-06-10,live_unofficial
+123,Faroe Islands,1136.59,UEFA,2026-06-10,live_unofficial
+124,Cyprus,1133.25,UEFA,2026-06-10,live_unofficial
+125,Suriname,1132.43,CONCACAF,2026-06-10,live_unofficial
+126,Azerbaijan,1132.0,UEFA,2026-06-10,live_unofficial
+127,Estonia,1130.64,UEFA,2026-06-10,live_unofficial
+128,Rwanda,1126.62,CAF,2026-06-10,live_unofficial
+129,Malawi,1122.05,CAF,2026-06-10,live_unofficial
+130,Zimbabwe,1119.78,CAF,2026-06-10,live_unofficial
+131,Nicaragua,1114.63,CONCACAF,2026-06-10,live_unofficial
+132,Guinea-Bissau,1108.38,CAF,2026-06-10,live_unofficial
+133,Kuwait,1106.47,AFC,2026-06-10,live_unofficial
+134,Congo,1105.96,CAF,2026-06-10,live_unofficial
+135,Philippines,1100.95,AFC,2026-06-10,live_unofficial
+136,Malaysia,1086.22,AFC,2026-06-10,live_unofficial
+137,Latvia,1085.66,UEFA,2026-06-10,live_unofficial
+138,India,1084.93,AFC,2026-06-10,live_unofficial
+139,Central African Republic,1080.82,CAF,2026-06-10,live_unofficial
+140,Liberia,1080.44,CAF,2026-06-10,live_unofficial
+141,Turkmenistan,1078.65,AFC,2026-06-10,live_unofficial
+142,Burundi,1078.01,CAF,2026-06-10,live_unofficial
+143,Ethiopia,1077.52,CAF,2026-06-10,live_unofficial
+144,Dominican Republic,1076.5,CONCACAF,2026-06-10,live_unofficial
+145,Yemen,1065.24,AFC,2026-06-10,live_unofficial
+146,Lesotho,1064.29,CAF,2026-06-10,live_unofficial
+147,Botswana,1063.63,CAF,2026-06-10,live_unofficial
+148,Singapore,1057.95,AFC,2026-06-10,live_unofficial
+149,Lithuania,1056.85,UEFA,2026-06-10,live_unofficial
+150,Guyana,1049.32,CONCACAF,2026-06-10,live_unofficial
+151,New Caledonia,1036.95,OFC,2026-06-10,live_unofficial
+152,St Kitts and Nevis,1036.33,CONCACAF,2026-06-10,live_unofficial
+153,Solomon Islands,1031.89,OFC,2026-06-10,live_unofficial
+154,Puerto Rico,1024.3,CONCACAF,2026-06-10,live_unofficial
+155,Fiji,1024.17,OFC,2026-06-10,live_unofficial
+156,"Hong Kong, China",1024.16,AFC,2026-06-10,live_unofficial
+157,Tahiti,1019.04,OFC,2026-06-10,live_unofficial
+158,Myanmar,1010.91,AFC,2026-06-10,live_unofficial
+159,Moldova,1008.24,UEFA,2026-06-10,live_unofficial
+160,Vanuatu,1002.53,OFC,2026-06-10,live_unofficial
+161,Malta,992.79,UEFA,2026-06-10,live_unofficial
+162,Antigua and Barbuda,986.58,CONCACAF,2026-06-10,live_unofficial
+163,Grenada,981.82,CONCACAF,2026-06-10,live_unofficial
+164,Cuba,981.42,CONCACAF,2026-06-10,live_unofficial
+165,Eswatini,979.01,CAF,2026-06-10,live_unofficial
+166,St Lucia,976.71,CONCACAF,2026-06-10,live_unofficial
+167,Bermuda,975.05,CONCACAF,2026-06-10,live_unofficial
+168,Papua New Guinea,974.9,OFC,2026-06-10,live_unofficial
+169,South Sudan,970.94,CAF,2026-06-10,live_unofficial
+170,St Vincent and the Grenadines,968.27,CONCACAF,2026-06-10,live_unofficial
+171,Afghanistan,968.07,AFC,2026-06-10,live_unofficial
+172,Andorra,946.43,UEFA,2026-06-10,live_unofficial
+173,Maldives,943.92,AFC,2026-06-10,live_unofficial
+174,Chinese Taipei,923.78,AFC,2026-06-10,live_unofficial
+175,Cambodia,922.32,AFC,2026-06-10,live_unofficial
+176,Montserrat,916.75,CONCACAF,2026-06-10,live_unofficial
+177,Nepal,914.54,AFC,2026-06-10,live_unofficial
+178,Mauritius,911.49,CAF,2026-06-10,live_unofficial
+179,Barbados,909.89,CONCACAF,2026-06-10,live_unofficial
+180,Belize,907.0,CONCACAF,2026-06-10,live_unofficial
+181,Bangladesh,902.93,AFC,2026-06-10,live_unofficial
+182,Dominica,897.69,CONCACAF,2026-06-10,live_unofficial
+183,Chad,896.85,CAF,2026-06-10,live_unofficial
+184,Eritrea,887.06,CAF,2026-06-10,live_unofficial
+185,Laos,885.03,AFC,2026-06-10,live_unofficial
+186,Cook Islands,877.53,OFC,2026-06-10,live_unofficial
+187,Sri Lanka,876.86,AFC,2026-06-10,live_unofficial
+188,Samoa,876.41,OFC,2026-06-10,live_unofficial
+189,Aruba,875.61,CONCACAF,2026-06-10,live_unofficial
+190,Mongolia,874.47,AFC,2026-06-10,live_unofficial
+191,American Samoa,871.61,OFC,2026-06-10,live_unofficial
+192,Bhutan,870.81,AFC,2026-06-10,live_unofficial
+193,Macau,858.03,AFC,2026-06-10,live_unofficial
+194,Brunei Darussalam,857.73,AFC,2026-06-10,live_unofficial
+195,São Tomé and Príncipe,855.44,CAF,2026-06-10,live_unofficial
+196,Djibouti,853.58,CAF,2026-06-10,live_unofficial
+197,Cayman Islands,850.06,CONCACAF,2026-06-10,live_unofficial
+198,Pakistan,840.28,AFC,2026-06-10,live_unofficial
+199,Somalia,839.17,CAF,2026-06-10,live_unofficial
+200,Tonga,835.64,OFC,2026-06-10,live_unofficial
+201,Timor-Leste,831.0,AFC,2026-06-10,live_unofficial
+202,Gibraltar,820.26,UEFA,2026-06-10,live_unofficial
+203,Guam,819.54,AFC,2026-06-10,live_unofficial
+204,Seychelles,804.16,CAF,2026-06-10,live_unofficial
+205,Turks and Caicos Islands,803.98,CONCACAF,2026-06-10,live_unofficial
+206,Liechtenstein,797.7,UEFA,2026-06-10,live_unofficial
+207,Bahamas,786.82,CONCACAF,2026-06-10,live_unofficial
+208,US Virgin Islands,779.76,CONCACAF,2026-06-10,live_unofficial
+209,British Virgin Islands,777.41,CONCACAF,2026-06-10,live_unofficial
+210,Anguilla,760.25,CONCACAF,2026-06-10,live_unofficial
+211,San Marino,721.2,UEFA,2026-06-10,live_unofficial
