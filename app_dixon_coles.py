@@ -423,7 +423,7 @@ tab_prediccions, tab_model = st.tabs(["📊 Prediccions", "🧮 Model i metodolo
 # PESTANYA 1 — PREDICCIONS (per defecte, orientada a l'usuari)
 # =============================================================================
 with tab_prediccions:
-    st.subheader("Totes les prediccions — Jornada 1")
+    st.subheader("Totes les prediccions — Fase de grups")
     display_cols = ["Partit", "Marcador suggerit", "λ (local-visitant)", "Confiança", "% 1X2 (1/X/2)"]
     st.dataframe(df_pred[display_cols], width="stretch", hide_index=True)
 
