@@ -392,7 +392,8 @@ def build_match_charts(home_team, away_team, lambda_h, lambda_a, rho, max_goals=
 st.title("Model Dixon-Cole per a Porra World Cup 2026")
 st.caption(
     "Model de Poisson bivariant amb correcció Dixon-Coles, ajustat amb dades històriques "
-    "(2021–2026) i rànquing FIFA en viu."
+    "(2021–2026) i rànquing FIFA segons finals Maig 2026."
+    "Albert Maristany per a porra oficial de Marcel Gómez - Mundial 2026"
 )
 
 try:
@@ -509,11 +510,3 @@ com a camp neutral.
 """
     )
 
-    st.info(
-        "**Nota d'honestedat estadística**: l'estimador de ρ utilitzat aquí és un mètode de moments "
-        "agregat (compara la taxa d'empats observada amb la que prediria un Poisson independent), no "
-        "l'estimació per màxima versemblança conjunta del Dixon-Coles original. A nivell agregat el "
-        "senyal és feble i pot sortir amb el signe contrari per soroll — per això es força al rang "
-        "negatiu típic de la literatura en lloc de deixar-lo saturar a zero o canviar de signe.",
-        icon="ℹ️",
-    )
